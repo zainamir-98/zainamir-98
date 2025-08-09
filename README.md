@@ -8,7 +8,7 @@ I'm an engineer passionate about signal processing, embedded software, and AI. I
 - 🌱 Learning: Advanced ML and DSP techniques for sensor data processing, German A2.
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/).
 
-If you're interested in intelligent sensing topics, you can check out my pinned repositories in which I have used radar and camera sensors for health sensing and enhanced human-machine interaction topics. Viel Spaß beim Stöbern!
+If you're interested in intelligent sensing topics, you can check out my pinned repositories in which I have used radar and camera sensors for health sensing and human-machine interaction topics. Viel Spaß beim Stöbern!
 
 <!--
 **zainamir-98/zainamir-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
