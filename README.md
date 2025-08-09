@@ -5,7 +5,7 @@ I'm an engineer passionate about signal processing, embedded software, and AI. I
 - 🔭 Currently working on: Firmware and haptics control algorithms for Seroton's One Box pneumatic device.
 - 🧑‍🔬 Research profile: [ORCiD](https://orcid.org/0009-0007-4853-8888).
 - ⚗️ My current side-project: TBD.
-- 🌱 Learning: Advanced ML and DSP techniques for sensor data processing, German A2.
+- 🌱 Learning: Advanced ML and DSP techniques for sensor data processing | German A2.
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/).
 
 If you're interested in intelligent sensing topics, you can check out my pinned repositories in which I have used radar and camera sensors for health sensing and human-machine interaction topics. Viel Spaß beim Stöbern!
