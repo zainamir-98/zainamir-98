@@ -1,10 +1,10 @@
 ## Hi! 👋 I'm Zain.
 
-I'm an engineer passionate about signal processing, embedded software, and AI. I am located in Munich, Germany, where I work at a HealthTech startup, [Seroton](https://seroton.com/en/).
+I'm an engineer passionate about signal processing, embedded software, machine learning, and edge AI. I am located in Munich, Germany, where I work at a HealthTech startup, [Seroton](https://seroton.com/en/).
 
 - 🔭 Currently working on: Firmware and haptics control algorithms for Seroton's One Box pneumatic device.
 - 🧑‍🔬 Research profile: [ORCiD](https://orcid.org/0009-0007-4853-8888).
-- ⚗️ My current side-project: Contactless vital signs monitoring with a mmWave FMCW radar sensor.
+- ⚗️ My current side-project: Contactless vital signs monitoring with mmWave FMCW radar sensor.
 - 🌱 Learning: Advanced ML and DSP techniques for sensor data processing | DevOps for Embedded Software Engineering | German A2.
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/zain-amir-zaman/).
 
