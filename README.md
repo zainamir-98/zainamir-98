@@ -1,6 +1,6 @@
 ## Hi! 👋 I'm Zain.
 
-I'm an engineer passionate about signal processing, embedded software, machine learning, and edge AI. I am located in Munich, Germany, where I work at a HealthTech startup, [Seroton](https://seroton.com/en/).
+I'm an engineer passionate about signal processing, embedded software, machine learning, and edge AI. I am located in Munich, Germany, and I work at a HealthTech startup, [Seroton](https://seroton.com/en/).
 
 - 🔭 Currently working on: Firmware and haptics control algorithms for Seroton's One Box pneumatic device.
 - 🧑‍🔬 Research profile: [ORCiD](https://orcid.org/0009-0007-4853-8888).
