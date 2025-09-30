@@ -1,14 +1,14 @@
 ## Hi! 👋 I'm Zain.
 
-I'm an engineer passionate about signal processing, embedded software, and machine learning. I am located in Munich, Germany, where I work at a HealthTech startup, [Seroton](https://seroton.com/en/).
+I'm an engineer passionate about signal processing, embedded software, and machine learning. I am located in Munich, Germany, where I work at a HealthTech startup, [Seroton](https://seroton.com/en/). 
 
-- 🔭 Currently working on: Firmware and haptics control algorithms for Seroton's One Box pneumatic device.
+- 🔭 Currently working on: Firmware and haptics control algorithms for Seroton's OneBox pneumatic control unit.
 - 🧑‍🔬 Research profile: [ORCiD](https://orcid.org/0009-0007-4853-8888).
 - ⚗️ My current side-project: Contactless vital signs monitoring with mmWave FMCW radar sensor.
 - 🌱 Learning: Advanced ML and DSP techniques for sensor data processing | DevOps for Embedded Software Engineering | German A2.
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/zain-amir-zaman/).
 
-If you're interested in intelligent sensing topics, you can check out my pinned repositories in which I have used radar and camera sensors for health sensing and human-machine interaction topics. Viel Spaß beim Stöbern!
+If you're interested in intelligent sensing topics, you can check out my pinned repositories in which I have used radar and camera sensors for health sensing and human-machine interaction topics.
 
 <!--
 **zainamir-98/zainamir-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
