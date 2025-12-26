@@ -4,8 +4,7 @@ I'm an engineer passionate about signal processing, embedded software, and machi
 
 - 🔭 Currently working on: Firmware and haptics control algorithms for Seroton's OneBox pneumatic control unit.
 - 🧑‍🔬 Research profile: [ORCiD](https://orcid.org/0009-0007-4853-8888).
-- ⚗️ My current side-project: Contactless vital signs monitoring with mmWave FMCW radar sensor.
-- 🌱 Learning: Advanced ML and DSP techniques for sensor data processing | DevOps for Embedded Software Engineering | German A2.
+- 🌱 Learning: ARMv8-M Assembly, C++ for Embedded Software Development.
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/zain-amir-zaman/).
 
 If you're interested in intelligent sensing topics, you can check out my pinned repositories in which I have used radar and camera sensors for health sensing and human-machine interaction topics.
