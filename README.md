@@ -4,7 +4,7 @@ I'm an engineer passionate about embedded software, machine learning, and signal
 
 - 🔭 Currently working on: Firmware and haptics control algorithms for Seroton's OneBox pneumatic control unit.
 - 🧑‍🔬 Research profile: [ORCiD](https://orcid.org/0009-0007-4853-8888).
-- 🌱 Learning: ARMv8-M Assembly, C++ for Embedded Software Development.
+- 🌱 Learning: ARMv8-M Assembly, C++ for Embedded Software Development, Rust.
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/zain-amir-zaman/).
 
 If you're interested in intelligent sensing topics, you can check out my pinned repositories in which I have used radar and camera sensors for health sensing and human-machine interaction topics.
